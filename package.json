@@ -1,0 +1,13 @@
+{
+  "name": "oblique",
+  "version": "0.0.1",
+  "description": "Print a random oblique strategy",
+  "bin": {
+    "oblique": "index.js"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Franco Victorio",
+  "license": "MIT"
+}
